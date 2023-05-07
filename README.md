@@ -1,4 +1,4 @@
-# krishicare
+# NewsCart
 
 A new Flutter project.
 
